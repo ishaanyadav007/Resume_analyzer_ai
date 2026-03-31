@@ -1,2 +1,2 @@
 # Resume_analyzer_ai
-To create a AI agent to analyze my resume
+AI powered Resume Analyzer based on the given Designation and job description using Gemini model.
